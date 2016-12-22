@@ -1,0 +1,1 @@
+defineClass('ViewController', { click: function(sender) {self.textfiled().setText("通过js修改了代码😀");},});
